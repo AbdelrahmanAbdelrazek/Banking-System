@@ -58,6 +58,7 @@ Start Bank(s) Server(s):
 1.Open \BankingSystemServer\dist\Server.bat on the machines you want to start servers on.
 
 2.Follow the instructions (Enter Bank name, port, other banks servers IPs, Ports and Names)
+![](https://i.imgur.com/dGp2eOk.png)
 
 ==============================================
 
@@ -68,6 +69,12 @@ Start Client:
 
 2.Enter the IP and port of the Bank you want to connect to.
 
+![](https://i.imgur.com/zcP1CLc.png)
+
 3.Enter the username and password of the client you want to log in as
 
+![](https://i.imgur.com/iTxixBA.png)
+
 4.now you can Import, Export and Transfer money from your account to others.
+
+![](https://i.imgur.com/EmwXfha.png)
