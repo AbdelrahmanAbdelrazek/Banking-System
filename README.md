@@ -2,7 +2,7 @@
 
 Recreating the derby database using ij tool:
 ==========================================
-1.Install JDK
+1.Install JDK (Tested on jdk1.8.0_171)
 
 2.run C:\Program Files\Java\'jdk_version'\db\bin\startNetworkServer.bat as an administrator
 
